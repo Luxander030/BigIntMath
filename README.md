@@ -17,3 +17,16 @@ Here, you will find all the different functions and all of their comments explai
 ##### `BigIntMath.min.js`
 
 Minified version. Use it if you're going to src it.
+
+#### How to SRC the minified version
+
+In your HTML file (as this is how it is going to be so far, until I figure out how to use npm), put this code near the top or in the `<head>`:
+
+``` html
+<script 
+    src="https://raw.githubusercontent.com/Luxander030/BigIntMath/refs/heads/main/BigIntMath.min.js"
+    integrity="sha512-/GMcwFiIrMypFt7SAdUYmvoRStmMJx6AB23PlsPz71wx+pcfd1sBWy/giNmOw7BIOZZV1bcUzmqCZ6NFL7MHvg=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer">
+</script>
+```
