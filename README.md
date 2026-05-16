@@ -4,7 +4,9 @@
 
 ### Reason for existing
 
-In my RPG game (Lux's RPG), I had to use BigInt because stats would inflate exponentially. A problem with that was with the fact that Math functions do *not* work with BigInt. So, glow and behold (but not really glow), I had to make a makeshift Math library for BigInt. However. What started as a library for `min`, `max`, and `clamp`, turned into a library I made *relativly* large. So enjoy.
+In my RPG game (Lux's RPG), I had to use BigInt because stats would inflate exponentially. A problem with that was with the fact that Math functions do *not* work with BigInt. So, glow and behold (but not really glow), I had to make a makeshift Math library for BigInt. However. What started as a library for `min`, `max`, and `clamp`, turned into a library I made *relativly* large. So enjoy, what I have now made, as my own BigInt Math library, named BigMath.
+
+#### What to expect
 
 Here, you will find 2 files. `BigIntMath.js`, and `BigIntMath.min.js`. The first file is the expanded version, and the second file is the minified version.
 
