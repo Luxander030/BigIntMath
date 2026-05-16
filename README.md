@@ -10,10 +10,10 @@ In my RPG game (Lux's RPG), I had to use BigInt because stats would inflate expo
 
 Here, you will find 2 files. `BigIntMath.js`, and `BigIntMath.min.js`. The first file is the expanded version, and the second file is the minified version.
 
-### `BigIntMath.js`
+##### `BigIntMath.js`
 
 Here, you will find all the different functions and all of their comments explaining what they do (in case you don't know whatever the hell they do)
 
-### `BigIntMath.min.js`
+##### `BigIntMath.min.js`
 
 Minified version. Use it if you're going to src it.
