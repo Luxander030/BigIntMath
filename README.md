@@ -29,4 +29,6 @@ In your HTML file (as this is how it is going to be so far, until I figure out h
     crossorigin="anonymous"
     referrerpolicy="no-referrer">
 </script>
+
+// Note, this will not work for some reason; I am trying to figure out why
 ```
